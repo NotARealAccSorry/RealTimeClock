@@ -12,9 +12,6 @@
         "assets.json",
         "custom.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
     "targetVersions": {
         "target": "4.0.14",
         "targetId": "arcade"
